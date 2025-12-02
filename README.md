@@ -11,7 +11,7 @@ The program's output will be as shown in the image.
 <img src="img.jpg"/>
 
 # Link:
-https://github.com/abdualhali792/hello-world
+https://github.com/AbdullahRaedAlshalabi/hello-world
 
 # My GitHub account
-https://github.com/abdualhali792/
+https://github.com/AbdullahRaedAlshalabi/
